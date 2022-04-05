@@ -1,0 +1,12 @@
+{"web":
+{
+    "type": "service_account",
+    "client_id":"157899316611-gnoanpv0eonribail0gegulcrjnq0g4q.apps.googleusercontent.com",
+    "project_id":"massive-network-346314",
+    "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+    "token_uri":"https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret":"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",
+    "redirect_uris":["http://localhost/task-3/"],
+    "client_email": "dima-web@massive-network-346314.iam.gserviceaccount.com",
+    "javascript_origins":["http://localhost"]}}
